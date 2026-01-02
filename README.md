@@ -34,7 +34,7 @@ A fully functional **Gym Website** built with the **MERN stack**, featuring a wo
 ---
 
 ## 📂 Folder Structure
-
+```
 mern-gym-website/
 ├── backend/
 │ ├── utils/
@@ -52,8 +52,7 @@ mern-gym-website/
 │ └── vite.config.js
 ├── .gitignore
 └── README.md
-
-
+```
 
 
 ---
