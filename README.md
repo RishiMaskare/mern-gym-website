@@ -2,13 +2,7 @@
 
 A fully functional **Gym Website** built with the **MERN stack**, featuring a working contact form that sends emails using Nodemailer. This project demonstrates real-world backend authentication, frontend–backend API integration, secure environment variables, and deployment-ready practices.
 
----
 
-## 🚀 Live Preview
-
-> *(Add your deployed link here if deployed, e.g., on Render/Netlify/Vercel)*
-
----
 
 ## 📌 Features
 
@@ -28,8 +22,6 @@ A fully functional **Gym Website** built with the **MERN stack**, featuring a wo
 | Frontend | React, Vite, CSS |
 | Backend | Node.js, Express |
 | Email | Nodemailer (Gmail App Password) |
-| Tools | Git, GitHub, Postman/Thunder Client |
-| Deployment (optional) | Render, Vercel, Netlify |
 
 ---
 
