@@ -15,7 +15,7 @@ const Contact = () => {
     setLoading(true);
     try {
       const { data } = await axios.post(
-        "https://mern-gym-website.onrender.com/send/mail"
+        `${import.meta.env.VITE_BACKEND_URL}/send/mail`
 ,
         {
           name,
